@@ -1,0 +1,35 @@
+
+
+
+.header{
+	width: 300px;
+	height: 60vh;
+	background-color: black;
+	color: white;
+	margin: auto;
+	padding: 30px;
+	text-align: center;
+	margin-top: 40px;
+	border-radius: 5px;
+
+}
+}
+.header h1{
+	font-size: 17px;
+	font-family: arial;
+}
+.header h3{
+	font-family: arial;
+	font-size: 30px;
+}
+.header button{
+	padding: 7px 0px;
+	width: 150px;
+	border:none;
+	border-radius: 3px;
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+.header p{
+	font-family: arial;
+}
